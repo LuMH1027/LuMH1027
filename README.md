@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="mailto:lmh04102@163.com">Email</a> ·
-  <a href="https://github.com/your-github-username">GitHub</a> ·
-  <a href="https://your-portfolio-link.com">Portfolio</a>
+  <a href="https://github.com/LuMH1027">GitHub</a> ·
+  <!-- <a href="https://your-portfolio-link.com">Portfolio</a> -->
 </p>
 
 ---
@@ -177,6 +177,6 @@ A multimodal document parsing system that converts images and PDFs into structur
 ## 📫 Contact
 
 - Email: **lmh04102@163.com**
-- GitHub: **https://github.com/your-github-username**
+- GitHub: **https://github.com/LuMH1027**
 
 I'm currently interested in long-term internship opportunities related to **AI Agents, RAG, multimodal document understanding, and LLM application engineering**.
